@@ -23,6 +23,9 @@
 //cppreference - сайт
 
 
+
+
+
 int main() {
     //int arr[]{ 123, 54 };
     std::vector<int>arr = { 123, 54 };
